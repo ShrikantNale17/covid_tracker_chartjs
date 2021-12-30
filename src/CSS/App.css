@@ -1,0 +1,15 @@
+.App {
+  /* text-align: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.page-link {
+  cursor: pointer;
+}
+
+button:active {
+  background-color: red;
+}
